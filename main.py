@@ -10,7 +10,9 @@ def print_hi(name):
 
 
 def hihi():
-    print("I am the best")
+    print()
+
+
 
 
 # Press the green button in the gutter to run the script.
