@@ -9,7 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 def haha():
-    print("haha")
+    a = 1 + 1
+    print(a)
 
 def hihi():
     print()
